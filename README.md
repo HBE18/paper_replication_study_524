@@ -105,21 +105,13 @@ Output of the dataset manifest script. It documents the available data artifacts
 
 Lists the Python packages required to run the notebooks and replication scripts.
 
+### `Replica_Study_Report.pdf`
+
+Study's complete report according to the experimentation results.
+
 ### `sp500.csv`
 
 A root-level CSV artifact from the original repository. In this replication, this file was found to be empty. It was treated as a reproducibility warning, although it does not appear to be used by the main notebook pipeline.
-
-### `LICENSE`
-
-License file for the repository.
-
-### `.gitignore`
-
-Specifies files and folders that should not be tracked by Git, such as virtual environments, cache folders, notebook checkpoints, and temporary files.
-
-### `README.md`
-
-Project overview file for the GitHub repository.
 
 ## Replication Objective
 
